@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #333333;
+    color: white;
+    padding: 20px 0;   
+    text-align:left ;
+    height: 50px;
+    display: flex;
+}
+
+h1{
+    margin-left: 30px;
+}
+
+#lupa{
+    height: 20px;
+    width: 20px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+nav{
+    background-color: #333333;
+    display: flex;
+}
+
+a{
+    background-color: #333333;
+    color: rgb(131, 128, 128);
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover{
+    color: white;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #252525;
+}
+
+
+iframe{
+    width: 130px;
+    height: 100px;
+    border-radius: 10px;
+    float:left;
+}
+
+div{
+    margin: 20px;
+    height: 20px;
+    display: flex;
+    margin-top: 45px;
+}
+
+#js{
+    margin-top: 90px;
+}
+
+#python{
+    margin-top: 90px;
+}
+
+#java{
+    margin-top: 90px;
+}
+
+p{
+    float:left;
+    margin-left: 15px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(226, 218, 218);
+}
